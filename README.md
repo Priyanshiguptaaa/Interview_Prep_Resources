@@ -16,4 +16,6 @@
 
 - https://people.kth.se/~eliasrg/writeups/cheatsheet.pdf
 
+- https://www.interviewcake.com/data-structures-reference
+
 
